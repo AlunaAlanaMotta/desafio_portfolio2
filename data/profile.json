@@ -1,0 +1,77 @@
+{
+  "name": "Alana Motta",
+  "photo": "https://raw.githubusercontent.com/AlunaAlanaMotta/desafio-dio-portfolio/refs/heads/main/assets/img/euperfil.jpeg",
+  "job": "Desenvolvedora Front-end",
+  "location": "Curitiba - PR",
+  "phone": "(41) 98770-9040",
+  "email": "mottaalana0@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Nodejs",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+      },
+      {
+        "name": "Java",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Mongodb",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
+      },
+      {
+        "name": "Postgresql",
+        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+      }
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)",
+    "Espanhol (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
+      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Consultora de vendas / Clube Morena Rosa",
+      "period": "2024 - até o momento",
+      "description": "Atualmente atuando como consultora de vendas, onde desenvolvo habilidades de atendimento ao cliente e vendas diretas."
+    },
+    {
+      "name": "Auxiliar de escritório / Aimer",
+      "period": "2022 - 2022",
+      "description": "Experiência como auxiliar de escritório, onde desenvolvi habilidades administrativas e de organização."
+    },
+    {
+      "name": "Vendedora / Squalle",
+      "period": "2013 - 2021",
+      "description": "Experiência como vendedora, onde desenvolvi habilidades de atendimento ao cliente e vendas diretas."
+    }
+  ]
+}
