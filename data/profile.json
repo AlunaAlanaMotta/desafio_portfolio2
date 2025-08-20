@@ -38,10 +38,6 @@
       {
         "name": "MySQL",
         "logo": "https://raw.githubusercontent.com/AlunaAlanaMotta/desafio_portfolio2/refs/heads/main/data/imgs/mysql.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
       }
     ],
     "softSkills": [
@@ -59,13 +55,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Temporizador - Cronômetro / Alura",
+      "url": "https://github.com/AlunaAlanaMotta/temporizador-alura",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Desafio DIO para a criação de uma página de portfolio",
+      "url": "https://github.com/AlunaAlanaMotta/desafio-dio-portfolio",
+      "github": true
+    },
+    {
+      "name": "Aluraflix / Alura",
+      "url": "https://github.com/AlunaAlanaMotta/AluraFlix",
       "github": true
     }
   ],
